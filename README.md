@@ -1,6 +1,6 @@
 # Learning from Unstructured Data | Project
 
-This repository contains the Learning from Unstructured Data project developed during the Erasmus program at Nova FCT in Lisbon. 
+This repository contains the Learning from Unstructured Data project developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
 
 ## Description
 
