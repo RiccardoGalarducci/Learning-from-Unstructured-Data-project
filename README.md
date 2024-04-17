@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="50%" src="https://github.com/RiccardoGalarducci/Learning-from-Unstructured-Data-project/blob/main/img/logo_nova_fct_en_v.png">
+</p>
+<br>
+
 # Learning from Unstructured Data | Project
 
 This repository contains the Learning from Unstructured Data project developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
