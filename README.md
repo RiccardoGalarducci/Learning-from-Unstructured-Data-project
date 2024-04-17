@@ -3,13 +3,15 @@
 </p>
 <br>
 
-# Learning from Unstructured Data | Project
+# Audio Data Classification
 
 This repository contains the Learning from Unstructured Data project developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
 
 ## Description
 
-The objective is to use the Deep Learning models (neural networks) mentioned below to, given a wav file, identify its class. The implementation of the networks is done in Tensorflow/Keras. 
+The aim of the project is to use the deep neural networks to solve a multi-class classification problem of audio data (wav file). The implementation of the networks is done in Tensorflow/Keras.
+
+Three types of deep models are used to solve the task:
 
 - 1D Convolution Network and/or 2D Convolution Network
 - Recurrent Network
