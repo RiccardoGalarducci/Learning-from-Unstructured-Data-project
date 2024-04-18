@@ -5,20 +5,20 @@
 
 # Audio Data Classification
 
-This repository contains the Learning from Unstructured Data project developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
+This repository contains the **Learning from Unstructured Data project** developed during the Erasmus program at Nova FCT in Lisbon in Big Data Analytics and Engineering.
 
 ## Description
 
-The aim of the project is to use the deep neural networks to solve a multi-class classification problem of audio data (wav file). The implementation of the networks is done in Tensorflow/Keras.
+The aim of the project is to use different types of deep neural networks to solve a multi-class classification problem on audio data (wav file). The implementation of the networks are done using in Tensorflow/Keras.
 
-Three types of deep models are used to solve the task:
+Three types of deep models are employed to solve the task:
 
-- 1D Convolution Network and/or 2D Convolution Network
+- 1D Convolution Network and 2D Convolution Network
 - Recurrent Network
 - Transformer Network
 
-Each model is trained and evaluated on raw input data (wav files) and the result of applying the Short Time Fourier Transform (STFT).
+Each model is trained and evaluated on both raw data (wav files) and on the Short Time Fourier Transformation (STFT).
 
 ## Repository Overview
 
-In this repository, in the root level, you can find the pdf version of the project and the jupyter notebook where the models are implemented.
+In this repository, in the root level, you can find the pdf report of the project and the jupyter notebook where the models are implemented.
